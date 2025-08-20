@@ -1,1 +1,1 @@
-# Fasta_Manipulator
+The program reads DNA sequences from a fasta file and processes them based on the user’s choice (complement, reverse, reverse complement, or mRNA complement). It generates the new sequences according to the selected manipulation. Finally, it saves the results into a new fasta file with an appropriate name.
